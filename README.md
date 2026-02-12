@@ -2,7 +2,7 @@
 language:
 - pt
 task_categories:
-- information-retrieval
+- text-retrieval
 - text-generation
 pretty_name: docs-asof-processed
 ---
@@ -54,4 +54,4 @@ Definir explicitamente a licença do dataset neste card (ex.: MIT, Apache-2.0, C
 ## Notas de governança
 - Pipeline executado no Space.
 - Processamento versionado e reprodutível.
-- Última atualização: `2026-02-12T10:06:40+00:00`.
+- Última atualização: `2026-02-12T10:07:32+00:00`.
