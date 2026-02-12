@@ -28,25 +28,17 @@ Documentos publicados em `profgabrielramos/docs-asof-processed`.
 - Idioma (heurística): **pt**
 
 ## Qualidade pós-limpeza
-- Linhas antes/depois: **803 / 785**
-- Removidas: **18**
+- Linhas antes/depois: **n/a / n/a**
+- Removidas: **n/a**
 - Versão de processamento: **v1.0.0**
 
 ## Estrutura de schema (limpo)
-- `text`
-- `source`
-- `type`
-- `metadata`
-- `_split`
-- `doc_id`
-- `dataset_version`
-- `processed_at`
-- `text_length_chars`
+- Não informado
 
 ## Métricas de chunking (RAG)
-- Documentos únicos: **785**
-- Chunks: **1337**
-- Média chars/chunk: **1004.1**
+- Documentos únicos: **n/a**
+- Chunks: **n/a**
+- Média chars/chunk: **0.0**
 
 ## Licença
 Definir explicitamente a licença do dataset neste card (ex.: MIT, Apache-2.0, CC-BY-4.0).
@@ -54,4 +46,4 @@ Definir explicitamente a licença do dataset neste card (ex.: MIT, Apache-2.0, C
 ## Notas de governança
 - Pipeline executado no Space.
 - Processamento versionado e reprodutível.
-- Última atualização: `2026-02-12T10:07:32+00:00`.
+- Última atualização: `2026-02-12T10:11:15+00:00`.
