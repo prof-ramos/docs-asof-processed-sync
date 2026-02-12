@@ -1,0 +1,45 @@
+{
+  "version": "v1.0.0",
+  "source_repo": "profgabrielramos/docs-asof-processed",
+  "audit_stats": {
+    "source_repo": "profgabrielramos/docs-asof-processed",
+    "splits": [
+      "train"
+    ],
+    "num_rows_total": 803,
+    "num_columns": 5,
+    "text_col": "text",
+    "null_rate_text": 0.0,
+    "empty_rate_text": 0.0,
+    "dup_rate_exact_rows": 0.0,
+    "dup_rate_text_normalized": 0.0224159402241594,
+    "len_mean": 1579.090909090909,
+    "len_p50": 502.0,
+    "len_p90": 2221.600000000001,
+    "len_p95": 3548.3999999999987,
+    "len_p99": 29449.060000000012,
+    "language_guess": "pt",
+    "audited_at": "2026-02-12T10:06:38+00:00"
+  },
+  "clean_stats": {
+    "before_rows": 803,
+    "after_rows": 785,
+    "dropped_rows": 18,
+    "min_chars": 50,
+    "version": "v1.0.0",
+    "output_repo": "profgabrielramos/docs-asof-processed",
+    "uploaded": false,
+    "uploaded_path": null
+  },
+  "rag_stats": {
+    "chunks": 1337,
+    "docs": 785,
+    "avg_chunk_chars": 1004.1436050860135,
+    "chunk_tokens_target": 400,
+    "overlap_pct": 12,
+    "uploaded": false,
+    "uploaded_path": null,
+    "rag_repo": "profgabrielramos/docs-asof-processed-rag"
+  },
+  "published_at": "2026-02-12T10:06:40+00:00"
+}
